@@ -1,0 +1,26 @@
+.whero_main_wrapp {
+  width: -webkit-fill-available;
+  height: 90vh;
+  display: flex;
+  background: var(--clr-bg);
+  background-position: top;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+
+  padding: 4rem 3rem;
+}
+
+.whero_card_wrapp {
+  margin-left: auto;
+  margin-top: auto;
+}
+
+@media (max-width: 767px) {
+  .whero_main_wrapp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 1rem 2.5rem 1rem;
+  }
+}

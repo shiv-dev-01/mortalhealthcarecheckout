@@ -1,0 +1,9 @@
+{
+  "short_name": "Mortal Healthcare",
+  "name": "Mortal Healthcare",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E5741",
+  "background_color": "#ffffff"
+}
