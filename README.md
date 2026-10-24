@@ -47,6 +47,7 @@ The dev server opens at http://localhost:3000.
 - `.gitignore`
 - `package-lock.json`
 - `package.json`
+- `README.md`
 - `tailwind.config.js`
 
 ## Configuration
